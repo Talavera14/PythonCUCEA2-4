@@ -1,0 +1,9 @@
+rango = range(1,11)
+
+for numero in rango:
+    print (numero)
+    
+nombre = 'daniel'
+
+for letra in nombre:
+    print (letra)
